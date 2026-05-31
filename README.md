@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫Vinish:
 🔭 I’m currently working on<br>Building Android & Kotlin Multiplatform projects while improving my problem-solving skills.<br><br>🌱 I’m currently learning<br>Jetpack Compose, KMP, clean architecture, and how to write better code than yesterday.<br><br>💬 Ask me about<br>Android development, UI ideas, productivity, or games and tech in general.<br><br>🤝 I’m looking to collaborate on<br>Creative Android apps, open-source projects, and cool ideas that start with “what if…”<br><br>⚡ Fun fact<br>The deeper I go into a technology, the more exciting it becomes.
 
 
