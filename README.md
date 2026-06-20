@@ -18,8 +18,6 @@ Android development, UI ideas, productivity, or games and tech in general.<br>
 <strong>⭐Looking to collaborate on:</strong><br>
 Creative Android apps, open-source projects, and cool ideas that start with “what if…”<br>
 
-<strong>⭐Fun fact:</strong><br>
-The deeper I go into a technology, the more exciting it becomes.
 
 
 
