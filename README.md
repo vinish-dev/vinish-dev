@@ -6,9 +6,7 @@
 Computer Science student passionate about Kotlin, Jetpack Compose, and creating apps that are both useful and enjoyable to use.
 Driven by curiosity, I enjoy exploring technology in depth and turning "what if..." ideas into projects. <br><br>
 
-<table>
-<tr>
-<td width="65%" valign="top">
+<img align="right" width="120" src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif">
 
 ⭐ **Currently working on:**  
 Building Android & Kotlin Multiplatform projects while improving my problem-solving skills.
@@ -24,15 +22,6 @@ Android development, UI ideas, productivity, or games and tech in general.
 
 ⭐ **Looking to collaborate on:**  
 Creative Android apps, open-source projects, and cool ideas that start with "what if..."
-
-</td>
-
-<td width="15%" align="center">
-<img src="https://user-images.githubusercontent.com/74038190/226127913-88de86d3-8437-45b9-a3b6-e746b47f655a.gif" width="80">
-</td>
-
-</tr>
-</table>
 
 
 ##  Socials
