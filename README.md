@@ -48,9 +48,5 @@ Creative Android apps, open-source projects, and cool ideas that start with "wha
 ![](https://streak-stats.demolab.com/?user=vinish-dev&theme=blue-green&hide_border=false) &nbsp;
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=vinish-dev&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## Random Dev Quote
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</div>
 
 <!--What makes you come here -->
